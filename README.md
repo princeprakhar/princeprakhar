@@ -14,9 +14,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **back-end development to complement my front-end skills.**
-- 💬 Ask me about **Core Java, JavaScript, Machine Learning, C++, C, Python, Computer Networks, DBMS**
-- 📫 How to reach me **prakhardeep173@gmail.com**
+- 🌱 I’m currently expanding  my skill set by learning `DevOps to complement my Back-end and Front-end expertise `.
+- 💬 Feel free to ask me about `Core Java, JavaScript, Machine Learning, Deep Learning, React, MERN, C++, C, Python, Computer Networks, DBMS, SQL`.
+- 📫 You can reach me at prakhardeep173@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
