@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=princeprakhar&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF)" alt="princeprakhar" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=princeprakhar&layout=compact&show_icons=true&line_height=27)" alt="princeprakhar" />
 </div>
 
 <div align="center">
