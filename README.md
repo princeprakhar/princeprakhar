@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Deep</h1>
-<h3 align="center">A passionate Web Developer, Artificial Intelligence & Machine Learning Developer</h3>
+<!-- <h3 align="center">A passionate Web Developer, Artificial Intelligence & Machine Learning Developer</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=princeprakhar&label=Profile%20views&color=0e75b6&style=flat" alt="princeprakhar" />
@@ -8,15 +8,15 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=princeprakhar" alt="princeprakhar" />
   </a>
-</p>
+</p> -->
 
-- 🌱 I’m currently expanding  my skill set by learning `DevOps to complement my Back-end and Front-end expertise `.
-- 💬 Feel free to ask me about `Core Java, JavaScript, Machine Learning, Deep Learning, React, MERN, C++, C, Python, Computer Networks, DBMS, SQL`.
-- 📫 You can reach me at prakhardeep173@gmail.com.
+- 🚀 Pushing boundaries in `AI-powered applications, Web Development, and Scalable Backend Systems`.
+- 💬 Feel free to ask me about `Core Java, JavaScript, Machine Learning, Deep Learning, React, MERN, C++, C, Python, Computer Networks, DBMS, SQL, AI Agents, Django, FastAPI, AWS EC2, S3, Vercel deployment, and building real-world AI applications`.
+- 📧 You can reach me at prakhardeep173@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +36,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princeprakhar" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -80,6 +81,21 @@
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws-ec2" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws-s3" width="40" height="40" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40" />
   </a>
 </p>
 
